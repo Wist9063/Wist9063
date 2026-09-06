@@ -1,6 +1,9 @@
-## I'm Josh 👋
+[site](https://joshlol.xyz) - [last.fm](https://www.last.fm/user/wist9063) - [resume](https://joshlol.xyz/resume) - [blog](https://joshlol.xyz/blog)
 
-[![spotify-github-profile](https://img.shields.io/endpoint?url=https://spotify-data.vercel.app/api/badge)](https://spotify-data.vercel.app/api/badge?redirect=true)<br>
-You can contact me at [josh@joshlol.xyz](mailto:josh@joshlol.xyz).
+> is a student at uc santa cruz, tech & info mgnt.
 
- [![Wist9063's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wist9063)](https://github.com/anuraghazra/github-readme-stats)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjoshlol.xyz%2Fapi%2Fspotify&query=%24.formatted&style=social&label=listening%20to&color=blue)
+----
+
+contact? <br>
+hello@joshlol.xyz  [[pgpkey]](https://joshlol.xyz/static/pgp.txt)
